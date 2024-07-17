@@ -1,0 +1,15 @@
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+  
+  /* Creamos componente en la carpeta, modificamos de Atocomplete, modificamos el HTML, TS azul y el CSS */
+
+  /* Para usarlo vamos a las carpetas principales, importando en app .ts azul, importamos arriba y abajo en import []*/
+  /* En html principal hacemos una etiqueta con el nomnre della clase de TS del componente*/
